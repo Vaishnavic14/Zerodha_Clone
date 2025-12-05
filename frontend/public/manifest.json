@@ -1,0 +1,11 @@
+{
+  "short_name": "Zerodha Clone",
+  "name": "Create React App Sample",
+  "icons": [
+  {
+    "src": "logo.png",
+    "type": "png",
+    "sizes": "192x192"
+  }
+]
+}
