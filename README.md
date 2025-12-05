@@ -3,11 +3,7 @@ This project is a clone of Zerodha, India's largest and most technologically adv
 
 Zerodha, a portmanteau of "Zero" and "Rodha" (Sanskrit for "barrier"), was founded in 2010 by brothers Nithin Kamath and Nikhil Kamath with the goal of breaking down barriers for traders and investors in India.
 
-# Key Highlights:-## 🖼️ Screenshots
-
-### 🚀 Homepage Hero Section
-
-![Zerodha Clone Homepage Hero Image](./assets/homeHero.png)
+# Key Highlights:-
 
 1.Discount Brokerage Pioneer: Zerodha revolutionized the industry by introducing a low-cost, flat-fee pricing model.
 
