@@ -3,7 +3,7 @@ This project is a clone of Zerodha, India's largest and most technologically adv
 
 Zerodha, a portmanteau of "Zero" and "Rodha" (Sanskrit for "barrier"), was founded in 2010 by brothers Nithin Kamath and Nikhil Kamath with the goal of breaking down barriers for traders and investors in India.
 
-Key Highlights:
+# Key Highlights:-
 1.Discount Brokerage Pioneer: Zerodha revolutionized the industry by introducing a low-cost, flat-fee pricing model.
 
 2.₹0 Brokerage: For all equity delivery investments and direct mutual funds.
@@ -12,7 +12,7 @@ Key Highlights:
 
 4.Market Leadership: As of 2019, Zerodha became the largest stockbroker in India by active clients and contributes significantly to the daily retail trading volumes on Indian stock exchanges.
 
-5.The Zerodha Ecosystem: The company provides a suite of advanced platforms and educational resources:
+# The Zerodha Ecosystem: The company provides a suite of advanced platforms and educational resources:-
 
 Kite: Their flagship, high-speed trading platform (web and mobile).
 
